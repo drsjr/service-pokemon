@@ -38,3 +38,4 @@ class Pokemon(BaseModel):
     nameId: str
     name: str
     type: List[str]
+    url: str

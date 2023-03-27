@@ -12,7 +12,8 @@ class PokeDexRepository():
                 id = item["id"],
                 nameId = item["nameId"],
                 name = item["name"]["english"],
-                type = item["type"]
+                type = item["type"],
+                url = f'http://10.0.2.2:8000/images/{item["nameId"]}.png'
             )
         self.keys = list(self.dataset.keys())
 
