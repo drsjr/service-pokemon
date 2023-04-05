@@ -580,7 +580,7 @@
   },
   {
     "id": 28,
-    "nameId": "28",
+    "nameId": "028",
     "name": {
       "english": "Sandslash",
       "japanese": "サンドパン",
@@ -707,7 +707,7 @@
   },
   {
     "id": 34,
-    "nameId": "0034",
+    "nameId": "034",
     "name": {
       "english": "Nidoking",
       "japanese": "ニドキング",
@@ -729,7 +729,7 @@
   },
   {
     "id": 35,
-    "nameId": "0035",
+    "nameId": "035",
     "name": {
       "english": "Clefairy",
       "japanese": "ピッピ",
@@ -750,7 +750,7 @@
   },
   {
     "id": 36,
-    "nameId": "0036",
+    "nameId": "036",
     "name": {
       "english": "Clefable",
       "japanese": "ピクシー",
@@ -771,7 +771,7 @@
   },
   {
     "id": 37,
-    "nameId": "0037",
+    "nameId": "037",
     "name": {
       "english": "Vulpix",
       "japanese": "ロコン",
@@ -792,7 +792,7 @@
   },
   {
     "id": 38,
-    "nameId": "0038",
+    "nameId": "038",
     "name": {
       "english": "Ninetales",
       "japanese": "キュウコン",
@@ -813,7 +813,7 @@
   },
   {
     "id": 39,
-    "nameId": "0039",
+    "nameId": "039",
     "name": {
       "english": "Jigglypuff",
       "japanese": "プリン",
@@ -835,7 +835,7 @@
   },
   {
     "id": 40,
-    "nameId": "0040",
+    "nameId": "040",
     "name": {
       "english": "Wigglytuff",
       "japanese": "プクリン",
@@ -857,7 +857,7 @@
   },
   {
     "id": 41,
-    "nameId": "0041",
+    "nameId": "041",
     "name": {
       "english": "Zubat",
       "japanese": "ズバット",
@@ -879,7 +879,7 @@
   },
   {
     "id": 42,
-    "nameId": "0042",
+    "nameId": "042",
     "name": {
       "english": "Golbat",
       "japanese": "ゴルバット",
@@ -901,7 +901,7 @@
   },
   {
     "id": 43,
-    "nameId": "0043",
+    "nameId": "043",
     "name": {
       "english": "Oddish",
       "japanese": "ナゾノクサ",
@@ -923,7 +923,7 @@
   },
   {
     "id": 44,
-    "nameId": "0044",
+    "nameId": "044",
     "name": {
       "english": "Gloom",
       "japanese": "クサイハナ",
@@ -945,7 +945,7 @@
   },
   {
     "id": 45,
-    "nameId": "0045",
+    "nameId": "045",
     "name": {
       "english": "Vileplume",
       "japanese": "ラフレシア",
@@ -967,7 +967,7 @@
   },
   {
     "id": 46,
-    "nameId": "0046",
+    "nameId": "046",
     "name": {
       "english": "Paras",
       "japanese": "パラス",
@@ -989,7 +989,7 @@
   },
   {
     "id": 47,
-    "nameId": "0047",
+    "nameId": "047",
     "name": {
       "english": "Parasect",
       "japanese": "パラセクト",
@@ -1011,7 +1011,7 @@
   },
   {
     "id": 48,
-    "nameId": "0048",
+    "nameId": "048",
     "name": {
       "english": "Venonat",
       "japanese": "コンパン",
@@ -1033,7 +1033,7 @@
   },
   {
     "id": 49,
-    "nameId": "0049",
+    "nameId": "049",
     "name": {
       "english": "Venomoth",
       "japanese": "モルフォン",
@@ -1055,7 +1055,7 @@
   },
   {
     "id": 50,
-    "nameId": "0050",
+    "nameId": "050",
     "name": {
       "english": "Diglett",
       "japanese": "ディグダ",
@@ -1076,7 +1076,7 @@
   },
   {
     "id": 51,
-    "nameId": "0051",
+    "nameId": "051",
     "name": {
       "english": "Dugtrio",
       "japanese": "ダグトリオ",
@@ -1097,7 +1097,7 @@
   },
   {
     "id": 52,
-    "nameId": "0052",
+    "nameId": "052",
     "name": {
       "english": "Meowth",
       "japanese": "ニャース",
@@ -1118,7 +1118,7 @@
   },
   {
     "id": 53,
-    "nameId": "0053",
+    "nameId": "053",
     "name": {
       "english": "Persian",
       "japanese": "ペルシアン",
@@ -1139,7 +1139,7 @@
   },
   {
     "id": 54,
-    "nameId": "0054",
+    "nameId": "054",
     "name": {
       "english": "Psyduck",
       "japanese": "コダック",
@@ -1160,7 +1160,7 @@
   },
   {
     "id": 55,
-    "nameId": "0055",
+    "nameId": "055",
     "name": {
       "english": "Golduck",
       "japanese": "ゴルダック",
@@ -1181,7 +1181,7 @@
   },
   {
     "id": 56,
-    "nameId": "0056",
+    "nameId": "056",
     "name": {
       "english": "Mankey",
       "japanese": "マンキー",
@@ -1202,7 +1202,7 @@
   },
   {
     "id": 57,
-    "nameId": "0057",
+    "nameId": "057",
     "name": {
       "english": "Primeape",
       "japanese": "オコリザル",
@@ -1223,7 +1223,7 @@
   },
   {
     "id": 58,
-    "nameId": "0058",
+    "nameId": "058",
     "name": {
       "english": "Growlithe",
       "japanese": "ガーディ",
@@ -1244,7 +1244,7 @@
   },
   {
     "id": 59,
-    "nameId": "0059",
+    "nameId": "059",
     "name": {
       "english": "Arcanine",
       "japanese": "ウインディ",
@@ -1265,7 +1265,7 @@
   },
   {
     "id": 60,
-    "nameId": "0060",
+    "nameId": "060",
     "name": {
       "english": "Poliwag",
       "japanese": "ニョロモ",
@@ -1286,7 +1286,7 @@
   },
   {
     "id": 61,
-    "nameId": "0061",
+    "nameId": "061",
     "name": {
       "english": "Poliwhirl",
       "japanese": "ニョロゾ",
@@ -1307,7 +1307,7 @@
   },
   {
     "id": 62,
-    "nameId": "0062",
+    "nameId": "062",
     "name": {
       "english": "Poliwrath",
       "japanese": "ニョロボン",
@@ -1329,7 +1329,7 @@
   },
   {
     "id": 63,
-    "nameId": "0063",
+    "nameId": "063",
     "name": {
       "english": "Abra",
       "japanese": "ケーシィ",
@@ -1350,7 +1350,7 @@
   },
   {
     "id": 64,
-    "nameId": "0064",
+    "nameId": "064",
     "name": {
       "english": "Kadabra",
       "japanese": "ユンゲラー",
@@ -1371,7 +1371,7 @@
   },
   {
     "id": 65,
-    "nameId": "0065",
+    "nameId": "065",
     "name": {
       "english": "Alakazam",
       "japanese": "フーディン",
@@ -1392,7 +1392,7 @@
   },
   {
     "id": 66,
-    "nameId": "0066",
+    "nameId": "066",
     "name": {
       "english": "Machop",
       "japanese": "ワンリキー",
@@ -1413,7 +1413,7 @@
   },
   {
     "id": 67,
-    "nameId": "0067",
+    "nameId": "067",
     "name": {
       "english": "Machoke",
       "japanese": "ゴーリキー",
@@ -1434,7 +1434,7 @@
   },
   {
     "id": 68,
-    "nameId": "0068",
+    "nameId": "068",
     "name": {
       "english": "Machamp",
       "japanese": "カイリキー",
@@ -1455,7 +1455,7 @@
   },
   {
     "id": 69,
-    "nameId": "0069",
+    "nameId": "069",
     "name": {
       "english": "Bellsprout",
       "japanese": "マダツボミ",
@@ -1477,7 +1477,7 @@
   },
   {
     "id": 70,
-    "nameId": "0070",
+    "nameId": "070",
     "name": {
       "english": "Weepinbell",
       "japanese": "ウツドン",
@@ -1499,7 +1499,7 @@
   },
   {
     "id": 71,
-    "nameId": "0071",
+    "nameId": "071",
     "name": {
       "english": "Victreebel",
       "japanese": "ウツボット",
@@ -1521,7 +1521,7 @@
   },
   {
     "id": 72,
-    "nameId": "0072",
+    "nameId": "072",
     "name": {
       "english": "Tentacool",
       "japanese": "メノクラゲ",
@@ -1543,7 +1543,7 @@
   },
   {
     "id": 73,
-    "nameId": "0073",
+    "nameId": "073",
     "name": {
       "english": "Tentacruel",
       "japanese": "ドククラゲ",
@@ -1565,7 +1565,7 @@
   },
   {
     "id": 74,
-    "nameId": "0074",
+    "nameId": "074",
     "name": {
       "english": "Geodude",
       "japanese": "イシツブテ",
@@ -1587,7 +1587,7 @@
   },
   {
     "id": 75,
-    "nameId": "0075",
+    "nameId": "075",
     "name": {
       "english": "Graveler",
       "japanese": "ゴローン",
@@ -1609,7 +1609,7 @@
   },
   {
     "id": 76,
-    "nameId": "0076",
+    "nameId": "076",
     "name": {
       "english": "Golem",
       "japanese": "ゴローニャ",
@@ -1631,7 +1631,7 @@
   },
   {
     "id": 77,
-    "nameId": "0077",
+    "nameId": "077",
     "name": {
       "english": "Ponyta",
       "japanese": "ポニータ",
@@ -1652,7 +1652,7 @@
   },
   {
     "id": 78,
-    "nameId": "0078",
+    "nameId": "078",
     "name": {
       "english": "Rapidash",
       "japanese": "ギャロップ",
@@ -1673,7 +1673,7 @@
   },
   {
     "id": 79,
-    "nameId": "0079",
+    "nameId": "079",
     "name": {
       "english": "Slowpoke",
       "japanese": "ヤドン",
@@ -1695,7 +1695,7 @@
   },
   {
     "id": 80,
-    "nameId": "0080",
+    "nameId": "080",
     "name": {
       "english": "Slowbro",
       "japanese": "ヤドラン",
@@ -1717,7 +1717,7 @@
   },
   {
     "id": 81,
-    "nameId": "0081",
+    "nameId": "081",
     "name": {
       "english": "Magnemite",
       "japanese": "コイル",
@@ -1739,7 +1739,7 @@
   },
   {
     "id": 82,
-    "nameId": "0082",
+    "nameId": "082",
     "name": {
       "english": "Magneton",
       "japanese": "レアコイル",
@@ -1761,7 +1761,7 @@
   },
   {
     "id": 83,
-    "nameId": "0083",
+    "nameId": "083",
     "name": {
       "english": "Farfetch'd",
       "japanese": "カモネギ",
@@ -1783,7 +1783,7 @@
   },
   {
     "id": 84,
-    "nameId": "0084",
+    "nameId": "084",
     "name": {
       "english": "Doduo",
       "japanese": "ドードー",
@@ -1805,7 +1805,7 @@
   },
   {
     "id": 85,
-    "nameId": "0085",
+    "nameId": "085",
     "name": {
       "english": "Dodrio",
       "japanese": "ドードリオ",
@@ -1827,7 +1827,7 @@
   },
   {
     "id": 86,
-    "nameId": "0086",
+    "nameId": "086",
     "name": {
       "english": "Seel",
       "japanese": "パウワウ",
@@ -1848,7 +1848,7 @@
   },
   {
     "id": 87,
-    "nameId": "0087",
+    "nameId": "087",
     "name": {
       "english": "Dewgong",
       "japanese": "ジュゴン",
@@ -1870,7 +1870,7 @@
   },
   {
     "id": 88,
-    "nameId": "0088",
+    "nameId": "088",
     "name": {
       "english": "Grimer",
       "japanese": "ベトベター",
@@ -1891,7 +1891,7 @@
   },
   {
     "id": 89,
-    "nameId": "0089",
+    "nameId": "089",
     "name": {
       "english": "Muk",
       "japanese": "ベトベトン",
@@ -1912,7 +1912,7 @@
   },
   {
     "id": 90,
-    "nameId": "0090",
+    "nameId": "090",
     "name": {
       "english": "Shellder",
       "japanese": "シェルダー",
@@ -1933,7 +1933,7 @@
   },
   {
     "id": 91,
-    "nameId": "0091",
+    "nameId": "091",
     "name": {
       "english": "Cloyster",
       "japanese": "パルシェン",
@@ -1955,7 +1955,7 @@
   },
   {
     "id": 92,
-    "nameId": "0092",
+    "nameId": "092",
     "name": {
       "english": "Gastly",
       "japanese": "ゴース",
@@ -1977,7 +1977,7 @@
   },
   {
     "id": 93,
-    "nameId": "0093",
+    "nameId": "093",
     "name": {
       "english": "Haunter",
       "japanese": "ゴースト",
@@ -1999,7 +1999,7 @@
   },
   {
     "id": 94,
-    "nameId": "0094",
+    "nameId": "094",
     "name": {
       "english": "Gengar",
       "japanese": "ゲンガー",
@@ -2021,7 +2021,7 @@
   },
   {
     "id": 95,
-    "nameId": "0095",
+    "nameId": "095",
     "name": {
       "english": "Onix",
       "japanese": "イワーク",
@@ -2043,7 +2043,7 @@
   },
   {
     "id": 96,
-    "nameId": "0096",
+    "nameId": "096",
     "name": {
       "english": "Drowzee",
       "japanese": "スリープ",
@@ -2064,7 +2064,7 @@
   },
   {
     "id": 97,
-    "nameId": "0097",
+    "nameId": "097",
     "name": {
       "english": "Hypno",
       "japanese": "スリーパー",
@@ -2085,7 +2085,7 @@
   },
   {
     "id": 98,
-    "nameId": "0098",
+    "nameId": "098",
     "name": {
       "english": "Krabby",
       "japanese": "クラブ",
@@ -2106,7 +2106,7 @@
   },
   {
     "id": 99,
-    "nameId": "0099",
+    "nameId": "099",
     "name": {
       "english": "Kingler",
       "japanese": "キングラー",
